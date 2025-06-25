@@ -9,7 +9,6 @@ I'm a passionate **Software Engineer** with experience in **Flutter Vue and Djan
 - 🌱 Currently learning: **Devops**
 - 🔭 Working on: **Airbnb clone project**
 - 🌍 Languages: **Dart, Python, Javascript**
-- 📫 How to reach me: **gabrielmcryu@gmail.com**
 - ⚡ Fun fact: **I once spent 4 hours fixing a bug—turned out it was a typo. Classic.**
 
 ## My Skills 🧠
@@ -39,7 +38,7 @@ I'm a passionate **Software Engineer** with experience in **Flutter Vue and Djan
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(https://gmacharia.netlify.app/)
+- **[Personal Website]**(https://gmacharia.netlify.app/)
 - **[LinkedIn]**(https://www.linkedin.com/in/gabriel-n-macharia/)
 
 
