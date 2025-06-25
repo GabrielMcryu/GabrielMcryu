@@ -38,7 +38,7 @@ I'm a passionate **Software Engineer** with experience in **Flutter Vue and Djan
 
 ## Get in Touch 📬
 
-- **[Personal Website]**(https://gmacharia.netlify.app/)
-- **[LinkedIn]**(https://www.linkedin.com/in/gabriel-n-macharia/)
+- **![Personal Website]**(https://gmacharia.netlify.app/)
+- **![LinkedIn]**(https://www.linkedin.com/in/gabriel-n-macharia/)
 
 
