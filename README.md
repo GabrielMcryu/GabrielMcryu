@@ -6,7 +6,7 @@
 
 I'm a passionate **Software Engineer** with experience in **Flutter Vue and Django**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Devops**
+- 🌱 Currently learning: **Advanced Backend Concepts**
 - 🔭 Working on: **Airbnb clone project**
 - 🌍 Languages: **Dart, Python, Javascript**
 - ⚡ Fun fact: **I once spent 4 hours fixing a bug—turned out it was a typo. Classic.**
