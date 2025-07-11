@@ -32,9 +32,10 @@ I'm a passionate **Software Engineer** with experience in **Flutter Vue and Djan
 
 **Jiko Express** is a **food delivery application that connects customers, restaurants, and riders in a seamless order and delivery workflow** built with **Flutter (Dart), Node.js/Express.js, and MongoDB**. This project demonstrates my ability to **build full-stack applications, manage multi-role user systems, implement secure authentication, and design intuitive mobile interfaces**. You can check out the repository [here](https://github.com/GabrielMcryu/JikoExpress).
 
-### [Pos System](https://github.com/GabrielMcryu/pos-system)
+### [iMoney](https://github.com/GabrielMcryu/iMoney)
 
-**Point of Sale System** is a **Python-based desktop application for managing customer purchases, generating receipts, and sending purchase confirmations via email** built with **Python 3.10, JSON, and Gmail integration**. This project demonstrates my ability to **build CLI-based applications, implement CRUD operations, manage transactional workflows, and integrate third-party services (email automation)**. You can check out the repository [here](https://github.com/GabrielMcryu/pos-system).
+**iMoney** is a **banking application that helps users understand and manage their spending** through detailed transaction summaries and seamless money transfers. Built with **Spring Boot (Java), React, Docker, and the Mpesa Daraja API**, this project showcases my ability to **develop full-stack applications, integrate third-party payment APIs, and handle real-time financial data workflows**. You can check out the repository [here](https://github.com/GabrielMcryu/iMoney).
+
 
 ## Get in Touch 📬
 
