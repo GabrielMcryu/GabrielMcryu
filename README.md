@@ -26,8 +26,6 @@ I'm a passionate **Software Engineer** with experience in **Flutter Vue and Djan
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
 ## Featured Projects 💻
 
 ### [Jiko Express](https://github.com/GabrielMcryu/JikoExpress)
